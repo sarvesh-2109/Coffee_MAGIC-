@@ -1,6 +1,9 @@
 # **Coffee MAGIC ☕**
 Welcome to Coffee Magic, your virtual coffee shop experience! Explore a variety of coffee options and enjoy the delicious flavors without leaving your home. Manage resources, process payments, and make your favorite coffee drinks with just a few clicks. From choosing your drink to processing payments, it's all here, brewed just for you.
 
+## **Working**
+![image](https://github.com/sarvesh-2109/Coffee_MAGIC-/assets/113255836/96da9fe5-60a1-4864-9ee9-aa69c6eb9be7)
+
 
 ## **Features**
 
